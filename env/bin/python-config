@@ -1,4 +1,4 @@
-#!/home/shakil/python/djangoproject/env/bin/python
+#!/home/shakil/djangoproject/env/bin/python
 
 import sys
 import getopt

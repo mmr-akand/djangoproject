@@ -1,4 +1,5 @@
-#!/home/shakil/python/djangoproject/env/bin/python3
+#!/home/shakil/djangoproject/env/bin/python3
+
 # -*- coding: utf-8 -*-
 import re
 import sys
